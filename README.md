@@ -1,7 +1,7 @@
 # 0x1D. C - Binary trees
 ## Resources
 
-*Read or watch:*
+**Read or watch:**
 * [Binary tree](https://intranet.alxswe.com/rltoken/1F2x42-8vUbOmU4L1C1KMg)
 * [Data Structure and Algorithms - Tree](https://intranet.alxswe.com/rltoken/QmcTMCkQyrgMjrqoWxYdhw)
 * [Tree Traversal](https://intranet.alxswe.com/rltoken/z6ZaXr_RxwE5nTHAUx_dfQ)
@@ -22,7 +22,7 @@
 ### Data structures
 Please use the following data structures and types for binary trees. Don’t forget to include them in your header file.
 
-*Basic Binary Tree*
+**Basic Binary Tree**
 
 ```
 /**
@@ -44,14 +44,14 @@ struct binary_tree_s
 typedef struct binary_tree_s binary_tree_t;
 ```
 
-*Binary Search Tree*
+**Binary Search Tree**
 
 ```typedef struct binary_tree_s bst_t;```
 
-*AVL Tree*
+**AVL Tree**
 
 ```typedef struct binary_tree_s avl_t;```
 
-*Max Binary Heap*
+**Max Binary Heap**
 
 ```typedef struct binary_tree_s heap_t;```
